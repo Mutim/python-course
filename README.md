@@ -31,10 +31,29 @@ This is designed to get you basically familiar with GitHub, and Python.
 
 
 ### Code Refference:
+https://github.com/Mutim/python-course/blob/main/main.py
         
 ---
 ### Week 2 - Build our first tool! ( Binary / Hex Converter )
 
 #### Objectives:
 
-  Unlocked on Sunday, 16 Oct 2022
+
+- [ ] Installing packages
+- [ ] Importing 3rd party packages
+- [ ] Create function that will determine what you are converting
+- [ ] Call function using input, and run function using input
+- [ ] Interact with menus from a main_menu class
+- [ ] Push to GitHub
+
+
+### Completion Date:
+    Saturday, 23 Oct 2022
+
+
+### Code Refference:
+
+---
+### Week 3 - Building our second tool! ( Metric to Standard converter )
+
+  Unlocked on Sunday, 23 Oct 2022
