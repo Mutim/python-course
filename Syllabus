@@ -27,4 +27,10 @@ Week 2 - Build our first tool! ( Binary / Hex Converter )
 
     Objectives:
 
-        Stored externally
+        [] Create menu option for converter
+        [] Create function that will determine what you are converting
+        [] Call function using input, and run function using input
+        [] Push to GitHub
+    
+    Completion:
+        []
